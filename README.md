@@ -3,7 +3,7 @@
 
 > **The structural answer to RAG token explosion.**
 
----
+---　
 
 ## Why This Exists
 
